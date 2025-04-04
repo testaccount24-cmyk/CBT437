@@ -1,0 +1,41 @@
+2025-04-04 09:43:53.569139 - Received CBT.V508.FILE437.PDS from FILE437.XMI 
+2025-04-04 09:43:53.570697 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE437.PDS, moved to PDS/$$$#DATE
+2025-04-04 09:43:53.570878 - Found $$$DOC.txt (text/plain) in CBT.V508.FILE437.PDS, moved to PDS/$$$DOC
+2025-04-04 09:43:53.571044 - Found @FILE437.txt (text/plain) in CBT.V508.FILE437.PDS, moved to PDS/@FILE437
+2025-04-04 09:43:53.571179 - Found COMPRESS.txt (text/plain) in CBT.V508.FILE437.PDS, moved to PDS/COMPRESS
+2025-04-04 09:43:53.571303 - Found COPYFBVB.txt (text/plain) in CBT.V508.FILE437.PDS, moved to PDS/COPYFBVB
+2025-04-04 09:43:53.571420 - Found IEFJFRQ.txt (text/plain) in CBT.V508.FILE437.PDS, moved to PDS/IEFJFRQ
+2025-04-04 09:43:53.571548 - Found INVOKE.txt (text/plain) in CBT.V508.FILE437.PDS, moved to PDS/INVOKE
+2025-04-04 09:43:53.571673 - Found IRXJCLM.txt (text/plain) in CBT.V508.FILE437.PDS, moved to PDS/IRXJCLM
+2025-04-04 09:43:53.571795 - Found ISTEXCA$.txt (text/plain) in CBT.V508.FILE437.PDS, moved to PDS/ISTEXCA$
+2025-04-04 09:43:53.571931 - Found ISTEXCAA.txt (text/plain) in CBT.V508.FILE437.PDS, moved to PDS/ISTEXCAA
+2025-04-04 09:43:53.572058 - Found JJ$CMATH.txt (text/plain) in CBT.V508.FILE437.PDS, moved to PDS/JJ$CMATH
+2025-04-04 09:43:53.572177 - Found JJ$FMATH.txt (text/plain) in CBT.V508.FILE437.PDS, moved to PDS/JJ$FMATH
+2025-04-04 09:43:53.572308 - Found JJ$MMATH.txt (text/plain) in CBT.V508.FILE437.PDS, moved to PDS/JJ$MMATH
+2025-04-04 09:43:53.572441 - Found JSCH.txt (text/plain) in CBT.V508.FILE437.PDS, moved to PDS/JSCH
+2025-04-04 09:43:53.572563 - Found MPFNTFY.txt (text/plain) in CBT.V508.FILE437.PDS, moved to PDS/MPFNTFY
+2025-04-04 09:43:53.572702 - Found MPFNTFY$.bin (application/octet-stream) in CBT.V508.FILE437.PDS, moved to PDS/MPFNTFY$
+2025-04-04 09:43:53.572822 - Found NODSI.txt (text/plain) in CBT.V508.FILE437.PDS, moved to PDS/NODSI
+2025-04-04 09:43:53.572949 - Found NODSI$.txt (text/plain) in CBT.V508.FILE437.PDS, moved to PDS/NODSI$
+2025-04-04 09:43:53.573073 - Found NODSI00.txt (text/plain) in CBT.V508.FILE437.PDS, moved to PDS/NODSI00
+2025-04-04 09:43:53.573210 - Found OPSYNBRI.txt (text/plain) in CBT.V508.FILE437.PDS, moved to PDS/OPSYNBRI
+2025-04-04 09:43:53.573333 - Found PARMTZ.txt (text/plain) in CBT.V508.FILE437.PDS, moved to PDS/PARMTZ
+2025-04-04 09:43:53.573461 - Found PARMTZ$.txt (text/plain) in CBT.V508.FILE437.PDS, moved to PDS/PARMTZ$
+2025-04-04 09:43:53.573584 - Found SUBMIT.txt (text/plain) in CBT.V508.FILE437.PDS, moved to PDS/SUBMIT
+2025-04-04 09:43:53.573712 - Found UPDCREAT.txt (text/plain) in CBT.V508.FILE437.PDS, moved to PDS/UPDCREAT
+2025-04-04 09:43:53.573831 - Found UPDSTATS.txt (text/plain) in CBT.V508.FILE437.PDS, moved to PDS/UPDSTATS
+2025-04-04 09:43:53.573949 - Found VMCP.txt (text/plain) in CBT.V508.FILE437.PDS, moved to PDS/VMCP
+2025-04-04 09:43:53.574083 - Found VMCP$.txt (text/plain) in CBT.V508.FILE437.PDS, moved to PDS/VMCP$
+2025-04-04 09:43:53.574230 - Found WHOHAS.txt (text/plain) in CBT.V508.FILE437.PDS, moved to PDS/WHOHAS
+2025-04-04 09:43:53.574362 - Found WHOHAS$.txt (text/plain) in CBT.V508.FILE437.PDS, moved to PDS/WHOHAS$
+2025-04-04 09:43:53.574478 - Found ZZSA$.txt (text/plain) in CBT.V508.FILE437.PDS, moved to PDS/ZZSA$
+2025-04-04 09:43:53.574591 - Found ZZSACARD.x-dbase-index (application/x-dbase-index) in CBT.V508.FILE437.PDS, moved to PDS/ZZSACARD
+2025-04-04 09:43:53.574721 - Found ZZSADIMG.xmi (application/xmit) in CBT.V508.FILE437.PDS, moved to PDS/ZZSADIMG.xmi
+2025-04-04 09:43:53.577710 - Received IBMUSER.ZZSADASD from ZZSADIMG.xmi 
+2025-04-04 09:43:53.577877 - Found IBMUSER.ZZSADASD.x-dbase-index (application/x-dbase-index), moved to ZZSADIMG/IBMUSER.ZZSADASD
+2025-04-04 09:43:53.578113 - Found ZZSALIPL.jcl (text/plain) in CBT.V508.FILE437.PDS, moved to PDS/ZZSALIPL
+2025-04-04 09:43:53.578238 - Found ZZSAPAC$.txt (text/plain) in CBT.V508.FILE437.PDS, moved to PDS/ZZSAPAC$
+2025-04-04 09:43:53.578364 - Found ZZSAPACK.bin (application/octet-stream) in CBT.V508.FILE437.PDS, moved to PDS/ZZSAPACK
+2025-04-04 09:43:53.578478 - Found ZZSATIMG.xmi (application/xmit) in CBT.V508.FILE437.PDS, moved to PDS/ZZSATIMG.xmi
+2025-04-04 09:43:53.581262 - Received IBMUSER.ZZSATAPE from ZZSATIMG.xmi 
+2025-04-04 09:43:53.581423 - Found IBMUSER.ZZSATAPE.x-dbase-index (application/x-dbase-index), moved to ZZSATIMG/IBMUSER.ZZSATAPE
